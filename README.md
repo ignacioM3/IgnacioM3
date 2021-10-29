@@ -8,7 +8,8 @@ Mi nombres es Ignacio Marquez, soy estudiante de programacion y de la cultura as
 Skills:<br>
       *Javascript del lado del servidor con NodeJs(framework Express (MVC)) <br>
       *librerías <br>
-      *sequelize(ORM) <br>
+ <p>      *Sequelize(ORM) </p><br>
+      
     *Base de dato MySql <br>
     *Apis <br>
   Por parte del front:<br>
