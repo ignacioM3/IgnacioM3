@@ -12,7 +12,7 @@ Skills:<br>
     *Base de dato MySql <br>
     *Apis <br>
   Por parte del front:<br>
-    *HTML 5 <br><br><br><br>
-    *CSS(Tambien utilización de Bootstrap)<br><br><br>
-    *Javascript front<br><br>
+    *HTML 5 <br>
+    *CSS(Tambien utilización de Bootstrap)<br>
+    *Javascript front<br>
     *ReactJs(Aprendizaje en curso)<br>
