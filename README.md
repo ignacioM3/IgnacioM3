@@ -5,14 +5,13 @@
 ## Sobre mi
 
 Mi nombres es Ignacio Marquez, soy estudiante de programacion y de la cultura asiatica principalmente de la japonesa. Estoy actualmente cursando el curso de Desarrolador Desarrollo Web Full Stack de Digital House el cual esta mediada por la fundación FORMAR. 
-—-
-Skills:
-    *Javascript del lado del servidor con NodeJs(framework Express (MVC))
-    *librerías NPM
-    *sequelize(ORM)
-    *Base de dato MySql
-    *Apis
-  Por parte del front:
+Skills:<br>
+    *Javascript del lado del servidor con NodeJs(framework Express (MVC)) <br>
+    *librerías <br>
+    *sequelize(ORM) <br>
+    *Base de dato MySql <br>
+    *Apis <br>
+  Por parte del front:<br>
     *HTML 5 
     *CSS(Tambien utilización de Bootstrap)
     *Javascript front
