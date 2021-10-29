@@ -4,7 +4,7 @@
 -->
 ## Sobre mi
 
-Mi nombres es Ignacio Marquez, soy estudiante de programacion y de la cultura asiatica principalmente de la japonesa. Estoy actualmente cursando el curso de Desarrolador Desarrollo Web Full Stack de Digital House el cual esta mediada por la fundación FORMAR. <br>
+Mi nombres es Ignacio Marquez, soy estudiante de programacion y de la cultura asiatica principalmente de la japonesa. Estoy actualmente cursando el curso de Desarrolador Desarrollo Web Full Stack de Digital House el cual esta mediada por la fundación FORMAR. Actualmente estoy en el ultimo tramo terminando de aprender React! <br>
 ##### Skills <br>
 *Javascript del lado del servidor con NodeJs(framework Express (MVC)) <br>
 *librerías <br>
@@ -16,3 +16,5 @@ Mi nombres es Ignacio Marquez, soy estudiante de programacion y de la cultura as
 *CSS(Tambien utilización de Bootstrap)<br>
 *Javascript front<br>
 *ReactJs(Aprendizaje en curso)<br>
+## Trabajo Integrador (Aplicación Web - E-commerce)
+<a href="https://github.com/DavidToja91/Grupo_12_NiceSweet">Link del repositorio</a>
