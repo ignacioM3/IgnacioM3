@@ -15,7 +15,7 @@ Mi nombres es Ignacio Marquez, soy estudiante de programacion y de la cultura as
 *HTML 5 <br>
 *CSS(Tambien utilización de Bootstrap)<br>
 *Javascript front<br>
-*ReactJs(Aprendizaje en curso)<br>
+*ReactJs<br>
 ## Trabajo Integrador (Aplicación Web - E-commerce)
 <a href="https://github.com/DavidToja91/Grupo_12_NiceSweet">Link del repositorio</a>
 Trabajo practico que llevamos desde el comienzo del curso con 3 de mis compañeros para un E-commerce de venta de golosinas en general, la cual creamos desde cero. Tuvimos sprint en los cuales teniamos consignas y entregas que nos demandaban tenerlas en tiempo y forma cumpliendo con cada uno de los objetivos del mismo sprint, utilizamos una metodología de trabajo tipo SCRUM. Las tecnologias que utilizamos fueron Figma (para los wireframes), Express, Css, template engines(ejs), Bootstrap, MySQL con sequelize y APIs.
