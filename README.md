@@ -4,7 +4,7 @@
 -->
 ## Sobre mi
 
-Mi nombres es Ignacio Marquez, soy estudiante de programacion y de la cultura asiatica principalmente de la japonesa. Estoy actualmente cursando el curso de Desarrolador Desarrollo Web Full Stack de Digital House el cual esta mediada por la fundación FORMAR. Actualmente estoy en el ultimo tramo terminando de aprender React! <br>
+Mi nombres es Ignacio Marquez, soy estudiante de programacion y de la cultura asiatica principalmente de la japonesa. En Novimbre de 2021 me egresé de el curso de Desarrollo Web Full Stack de Digital House el cual estaba mediada por la fundación FORMAR. Actualmente me encuentro estudiando Ingles y mejorando mis conocimientos en ReactJs <br>
 ##### Skills <br>
 *Javascript del lado del servidor con NodeJs(framework Express (MVC)) <br>
 *librerías <br>
